@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I am Shahid Ali you can call me Ali.
 
+## About Me
+I am a web developer specializing in frontend, backend, and WordPress development. Based in Karachi, Pakistan. I have worked with clients globally, delivering high quality web solutions.
 <!--
 **theshahidali/theshahidali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
