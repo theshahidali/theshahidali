@@ -1,16 +1,15 @@
-# Hi there 👋 I'm Shahid Ali
-I am a web developer specializing in frontend, backend, and WordPress development. Based in Karachi, Pakistan. I have worked with clients globally, delivering high quality web solutions.
-<!--
-**theshahidali/theshahidali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Shahid 👋
 
-Here are some ideas to get you started:
+Full Stack Developer with 9 years building CMS platforms for digital agencies and product companies in the UK, AU & CA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Specialising in:**
+🔧 Craft CMS · ExpressionEngine · WordPress
+⚡ Next.js · Vue · React
+🛠 Laravel · PHP · REST APIs
+
+**Currently:** Open to freelance contracts & long-term retainers
+**Based in:** Karachi, Pakistan · Working globally (remote)
+**Contact:** [contact@shahidalionline.com](mailto:contact@shahidalionline.com) · [LinkedIn](www.linkedin.com/in/shahidalionline)
+
+---
+> "I build CMS platforms agencies can hand off to clients without a manual." 
